@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>/ZHD/IF_DMP_WRITE</CLSNAME>
+    <LANGU>1</LANGU>
+    <DESCRIPT>数据管理系统-写入Interface</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>WRITE</CMPNAME>
+     <SCONAME>ET_MESSAGE</SCONAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>错误消息</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>WRITE</CMPNAME>
+     <SCONAME>EV_STATUS</SCONAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>消息类型: S 成功,E 错误,W 警告,I 信息,A 中断</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>WRITE</CMPNAME>
+     <SCONAME>IS_LINE_DATA</SCONAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>DMP平台数据传出结构</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

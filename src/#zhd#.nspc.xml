@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NSPC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <NSPC>
+    <NAMESPACE>/ZHD/</NAMESPACE>
+    <REPLICENSE>38132861033089874085</REPLICENSE>
+   </NSPC>
+   <NSPC_TEXT>
+    <SPRAS>1</SPRAS>
+    <DESCRIPTN>Quick Development Kit</DESCRIPTN>
+    <OWNER>HAND</OWNER>
+   </NSPC_TEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
